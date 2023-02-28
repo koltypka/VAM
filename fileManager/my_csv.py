@@ -1,6 +1,6 @@
 import csv
 
-def csv_open(filePath):
+def run(filePath):
     result = []
     with open(filePath, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -10,4 +10,4 @@ def csv_open(filePath):
     return result
 
 if __name__ == "__main__":
-    print(csv_open('../Фильмы.csv'))
+    print(run('../Фильмы.csv'))
