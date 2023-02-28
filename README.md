@@ -3,9 +3,9 @@
 Тут должен быть Всеволод <br>
 Андрей Бондал ヽ(￣～￣ )ノ <br>
 Беляев Максим <br>
-<br><br><br>
+<br>
 Сережа у нас...
- <br>
+ <br><br><br>
 инфографика
 <br>
 https://docs.google.com/spreadsheets/d/1YOWHzfEMr0LQDwnYCwgxzvI-A93_n6TXCI304iVM20c/edit?usp=sharing
