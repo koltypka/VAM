@@ -6,5 +6,8 @@
 <br><br><br>
 Сережа у нас...
  <br>
+инфографика
+<br>
+https://docs.google.com/spreadsheets/d/1YOWHzfEMr0LQDwnYCwgxzvI-A93_n6TXCI304iVM20c/edit?usp=sharing
+<br>
 
-Goodbye...
