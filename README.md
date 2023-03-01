@@ -10,5 +10,5 @@
 <br>
 https://docs.google.com/spreadsheets/d/1YOWHzfEMr0LQDwnYCwgxzvI-A93_n6TXCI304iVM20c/edit?usp=sharing
 <br>
-![](https://github.com/koltypka/VAM/blob/belyash-infographics/img/infographics.bmp)
+![](https://github.com/koltypka/VAM/blob/master/img/infographics.bmp)
 <br>
